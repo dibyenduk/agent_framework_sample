@@ -80,7 +80,7 @@ dotnet build .\AgentFrameworkSample.sln
 
 ## Important notes
 
-- The notebook currently includes a hardcoded tenant ID in `DefaultAzureCredentialOptions`.
+- The notebook has placeholder for tenant.
 	- Replace it with your tenant, or remove explicit `TenantId` to use default identity behavior.
 - This repository currently has project configuration and notebook samples; add your own `Program.cs` if you want a runnable console entry point.
 
