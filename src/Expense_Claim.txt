@@ -1,0 +1,14 @@
+Expense Claim Details
+
+Email: user@xyz.com
+
+Description: This is a description of the expense.
+
+Amount: $45
+
+Policy Checked: 
+- The meal expense falls within the policy limit of $50 per day. 
+- Meals should be limited to breakfast, lunch, and dinner at reasonably priced establishments. 
+- No alcohol or lavish meals claimed.
+
+The policy guidelines have been adhered to in this claim.
